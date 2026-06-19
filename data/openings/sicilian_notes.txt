@@ -1,0 +1,10 @@
+Sicilian Defence Training Notes
+
+Against 1.e4 c5, Black fights for the center indirectly. Key ideas:
+- Use the c-file after exchanges.
+- Develop pieces quickly.
+- Do not push too many pawns before king safety.
+- In e6 and a6 structures, Black often prepares ...b5 and queenside expansion.
+
+Training focus:
+Ask the player to explain why ...a6 and ...b5 are useful before memorizing moves.

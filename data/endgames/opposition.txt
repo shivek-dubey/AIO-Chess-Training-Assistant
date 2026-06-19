@@ -1,0 +1,12 @@
+King and Pawn Endgame: Opposition
+
+Opposition means placing your king in front of the opponent king with one square between them, so the opponent must move away.
+
+Direct opposition: kings are close with one square between them.
+Distant opposition: kings are far apart but aligned on the same file, rank, or diagonal.
+
+Simple rule:
+If your king can force the enemy king to move away, your pawn may promote.
+
+Training task:
+Set up king and pawn positions and ask the player to find whether the position is win or draw.
