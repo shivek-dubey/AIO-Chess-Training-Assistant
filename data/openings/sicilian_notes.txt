@@ -1,10 +1,36 @@
-Sicilian Defence Training Notes
+Sicilian Dragon Opening
 
-Against 1.e4 c5, Black fights for the center indirectly. Key ideas:
-- Use the c-file after exchanges.
-- Develop pieces quickly.
-- Do not push too many pawns before king safety.
-- In e6 and a6 structures, Black often prepares ...b5 and queenside expansion.
+Moves:
+1.e4 c5
+2.Nf3 d6
+3.d4 cxd4
+4.Nxd4 Nf6
+5.Nc3 g6
 
-Training focus:
-Ask the player to explain why ...a6 and ...b5 are useful before memorizing moves.
+Main Ideas for Black:
+- Develop the bishop to g7.
+- Castle kingside quickly.
+- Apply pressure on the long diagonal a1-h8.
+- Counterattack on the queenside using Rc8 and Qa5.
+
+Main Ideas for White:
+- Develop pieces rapidly.
+- Consider Yugoslav Attack with Be3, f3, Qd2 and long castling.
+- Launch kingside pawn storm using h4 and h5.
+
+Typical Plans:
+Black:
+- Rc8
+- Ne5
+- Qa5
+- Rfc8
+
+White:
+- Bh6 exchange
+- h4-h5 pawn storm
+- Sacrifices on h5 and e6
+
+Common Tactical Themes:
+- Exchange sacrifice on c3.
+- Bishop sacrifice on h3.
+- Knight jump to e5.
